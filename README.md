@@ -9,6 +9,5 @@ Estudiante de primer año de **Sistemas Informáticos** en el **Instituto TECBA*
 - 🎓 **Educación:** Cursando el 1er año en el Instituto TECBA.
 - 🔭 **Intereses:** Programación, arquitectura de sistemas y nuevas tecnologías.
 - 🌱 **Aprendiendo actualmente:** Lógica de programación, algoritmos y mucho más.
-- ⚡ **Dato curioso:** ¡Estoy dando mis primeros pasos en el mundo del código con mucha energía!
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House
